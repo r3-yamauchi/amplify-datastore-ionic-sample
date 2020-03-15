@@ -3,6 +3,8 @@
   "version": "0.0.1",
   "private": true,
   "dependencies": {
+    "@aws-amplify/core": "^2.2.5",
+    "@aws-amplify/datastore": "^1.0.8",
     "@ionic/react": "^5.0.0",
     "@ionic/react-router": "^5.0.0",
     "@testing-library/jest-dom": "^4.2.4",
